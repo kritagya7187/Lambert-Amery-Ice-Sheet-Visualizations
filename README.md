@@ -8,5 +8,5 @@ Interactive visualizations of Lambert-Amery Ice Shelf simulations generated usin
 3. Enjoy!
 
 <p align="center">
-  <img src="assets/thumbnail.svg" alt="Lambert-Amery ISSM Visualization" width="1000">
+  <img src="Screenshot 2026-10-20 103017.png" alt="Lambert-Amery ISSM Visualization" width="1000">
 </p>
