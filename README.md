@@ -2,3 +2,6 @@
 Interactive visualizations of Lambert-Amery Ice Shelf simulations generated using ISSM and MATLAB.
 How to visulaize 
 1- Download the html file and then double click it - Then Enjoy !!
+<p align="center">
+  <img src=""C:\Users\siing\Pictures\Screenshots\Screenshot 2026-10-20 103017.png" alt="Lambert-Amery ISSM Visulization" width="1000">
+</p>
